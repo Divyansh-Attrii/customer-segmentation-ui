@@ -31,7 +31,7 @@ A modern and responsive customer segmentation interface built with **React**, **
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/customer-segmentation-ui.git
+git clone https://github.com/Divyansh-Attri/customer-segmentation-ui.git
 ```
 
 Install dependencies
@@ -78,4 +78,4 @@ src
 **Divyansh Chaudhary**
 
 GitHub:
-https://github.com/yourusername
+https://github.com/Divyansh-Attrii
