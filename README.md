@@ -4,14 +4,6 @@ A modern and responsive customer segmentation interface built with **React**, **
 
 ---
 
-## Preview
-
-> Add a screenshot here
-
-![Project Preview](./screenshots/desktop.png)
-
----
-
 ## Features
 
 - Modern banking dashboard UI
