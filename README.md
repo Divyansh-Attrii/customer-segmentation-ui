@@ -73,9 +73,15 @@ src
 
 ---
 
-## Author
 
-**Divyansh Chaudhary**
 
-GitHub: https://github.com/Divyansh-Attrii
-LinkedIn: https://www.linkedin.com/in/Aivyansh-Attrii/
+## 👨‍💻 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/Aivyansh-Attrii/
+- **GitHub:** https://github.com/Divyansh-Attrii
+
+---
+
+## ❤️ Author
+
+Made with ❤️ by **Divyansh Chaudhary**
