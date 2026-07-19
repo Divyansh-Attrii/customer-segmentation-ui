@@ -77,7 +77,7 @@ src
 
 ## 👨‍💻 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/Aivyansh-Attrii/
+- **LinkedIn:** https://www.linkedin.com/in/Divyansh-Attrii/
 - **GitHub:** https://github.com/Divyansh-Attrii
 
 ---
