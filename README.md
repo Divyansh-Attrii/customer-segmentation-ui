@@ -77,5 +77,5 @@ src
 
 **Divyansh Chaudhary**
 
-GitHub:
-https://github.com/Divyansh-Attrii
+GitHub: https://github.com/Divyansh-Attrii
+LinkedIn: https://www.linkedin.com/in/Aivyansh-Attrii/
